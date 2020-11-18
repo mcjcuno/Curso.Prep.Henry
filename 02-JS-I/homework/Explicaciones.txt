@@ -1,0 +1,11 @@
+Variables= Son como contenedores donde uno puede guardar cualquier tipo de dato ya sea numeros, letras, textos etc.
+
+String= Son cadenas de texto basicamente es texto q se puede almacenar en una variable.
+
+Funciones= Son Acciones q puede realizar nuestro programa, estas acciones a  su vez se les puede pasar informacion
+por medio de argumentos. Tambien puede devolver datos para q puedan ser usados afuera de la funcion.
+
+Declaracion If= Es como un decision que le decimos q tome el programa de Si pasa tal cosa entonces el programa hace tal cosa..
+
+Valores Boleanos= Es como si fuera un interruptor de prendido a apagado o verdadero o falso 
+
