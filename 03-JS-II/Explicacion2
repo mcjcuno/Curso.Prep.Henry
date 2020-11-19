@@ -1,0 +1,8 @@
+For= El for es un ciclo repetitivo que a partir de una variable definida y cierta condicion se cumpla este se va repetir.
+
+&&= El operador and va evaluar las condiciones y va devolver verdadero si todas las condiciones se cumple si una condicion
+o mas es falsa este va devolver false
+
+||= El operador or va devolver true si una o ambas expreciones es verdadera y devolvera false si ambas expresiones son falsas.
+
+!= El operador not se usa para negar cualquier otro operador
