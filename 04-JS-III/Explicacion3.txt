@@ -1,0 +1,2 @@
+Array= Los array son como contenedores donde uno puede guardar datos tal como si fueran vagones de tren uno puede
+almacenar lo q desee y acceder a lo q tiene cada bagon cuando quiera.
