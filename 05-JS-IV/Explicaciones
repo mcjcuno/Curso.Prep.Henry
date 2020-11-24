@@ -1,0 +1,15 @@
+
+Objetos= Son contenedores de pares de valores una el la llave y el otro es el valor.
+
+Metodos= Son las funciones q estan adentro de un objeto.
+
+propiedades= Son las caracteristicas q puede tener un objeto ej: marca= Fiat.
+
+bucle for in= Es un bucle donde su particularidad es q puedes agregar elementos despues de haber creado la lista y 
+ademas se usa para recorrer objetos.
+
+Notacion puntos= Podemos acceder al las propiedades del objeto con el nombre del objeto, punto y nombre de la clave.
+
+Notacion de corchetes= Es como acceder a una matris con una cadena o un numero o una variable q apunte a una cadena o numero 
+se puede llamar a una clave envolviendola en comilla.
+
