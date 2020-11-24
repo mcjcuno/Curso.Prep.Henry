@@ -1,0 +1,8 @@
+
+Proptype= Es como el ADN de la clase y es como js evita el uso excesivo de la memoria al crear metodos.
+
+Constuctores= Es como una plantilla donde uno tiene las caracteristicas de la clase y en donde uno puede hacer uso de las mismas
+a partir de la intacia de una clase.
+
+
+
