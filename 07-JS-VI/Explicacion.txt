@@ -1,0 +1,2 @@
+
+CallBack= Una Accion para tratar las ejecuciones a destiempo. Una funcion q se ejecuta despues de otra funcion.
